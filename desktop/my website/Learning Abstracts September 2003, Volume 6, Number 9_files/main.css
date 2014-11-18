@@ -1,0 +1,93 @@
+.body {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.body A:active {
+	COLOR: #ff0000
+}
+.body A:link {
+	COLOR: #cc0000
+}
+.body A:visited {
+	COLOR: #cc0000
+}
+.body A:hover {
+	COLOR: #cc0000
+}
+.footer A:active {
+	COLOR: #cc0000
+}
+.footer A:link {
+	COLOR: #cc0000
+}
+.footer A:visited {
+	COLOR: #cc0000
+}
+.footer A:hover {
+	COLOR: #cc0000
+}
+.localnav A:active {
+	COLOR: #6699ff; TEXT-DECORATION: none
+}
+.localnav A:link {
+	COLOR: #6699ff; TEXT-DECORATION: none
+}
+.localnav A:visited {
+	COLOR: #6699ff; TEXT-DECORATION: none
+}
+.localnav A:hover {
+	COLOR: #3366cc; TEXT-DECORATION: none
+}
+.citbody A:active {
+	COLOR: #0000cc
+}
+.citbody A:link {
+	COLOR: #000099
+}
+.citbody A:visited {
+	COLOR: #000099
+}
+.citbody A:hover {
+	COLOR: #0000cc
+}
+BODY {
+	FONT-SIZE: smaller; FONT-FAMILY: Verdana
+}
+A:active {
+	COLOR: #cc0000; FONT-FAMILY: Verdana
+}
+A:link {
+	COLOR: #cc0000; FONT-FAMILY: Verdana
+}
+A:visited {
+	COLOR: #cc0000; FONT-FAMILY: Verdana
+}
+.form {
+	FONT-SIZE: 12px; COLOR: #000099; FONT-FAMILY: Verdana
+}
+.formred {
+	FONT-SIZE: 12px; COLOR: #d11c1b; FONT-FAMILY: Verdana
+}
+form_test {
+	COLOR: #ff0000
+}
+.formText {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.background {
+	BACKGROUND-COLOR: #ffffcc
+}
+.backgroundborder {
+	BORDER-RIGHT: #ff0000 1px solid; BORDER-TOP: #ff0000 1px solid; FONT-SIZE: 10pt; BORDER-LEFT: #ff0000 1px solid; WIDTH: auto; BORDER-BOTTOM: #ff0000 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: auto; BACKGROUND-COLOR: #ffffcc
+}
+.lc_item_header {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; TEXT-TRANSFORM: capitalize; COLOR: #003366; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.conn_bullet_red {
+	FONT-SIZE: 8pt; LIST-STYLE-IMAGE: url(../images/master/bullet.gif); FONT-FAMILY: Tahoma
+}
+.backgroundblue {
+	BACKGROUND-IMAGE: url(2004cit/images/bg.gif)
+}
+.OSlike {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma
+}

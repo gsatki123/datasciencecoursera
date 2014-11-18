@@ -1,0 +1,1654 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Remediation of College Students: A Summary of Empirical 
+Findings on Developmental Education 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—Commissioned Paper for the Higher Education Policy Institute at the 
+
+Texas Higher Education Coordinating Board— 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prepared by: 
+
+ 
+
+AMAURY NORA, PROFESSOR AND DIRECTOR 
+
+NATIONAL CENTER FOR STUDENT SUCCESS 
+
+COLLEGE OF EDUCATION 
+
+UNIVERSITY OF HOUSTON 
+
+ANORA@UH.EDU 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+February, 2009 
+
+
+Remediation of College Students: 
+A Summary of Empirical Findings on Developmental Education 
+Framework for Commissioned Paper to the Texas Higher Education Policy 
+Institute 
+The purpose of this paper is to provide an overview of developmental studies in higher 
+education with a focus on the empirical research that has been conducted on remedial students. 
+The review was guided by theoretical perspectives and conceptual models that have been used 
+and tested in various empirical investigations of developmental students at both two- and four-
+year colleges. Five major areas were identified to provide the underlying design of the paper: 
+Who participates in remediation? What do the findings say as to its effectiveness? What 
+theoretical perspectives have guided the research? What developmental and non-developmental 
+factors impact student outcomes? and What components are crucial in developmental education? 
+The different bodies of literature on developmental education are not extremely extensive 
+and there is still much to be researched. Unlike other literature reviews, this paper is not intended 
+to provide a set of specific policy recommendations or an exhaustive list of practices and 
+interventions. To develop such a list, it is first necessary to generate a research agenda on 
+developmental education, define or redefine the notion of remediation, and to conceptualize 
+appropriate theoretical models of student achievement, persistence and graduation that 
+incorporate the different components underlying the processes in the remediation of college 
+students. The review does provide for one recommendation: the need for theoretically-driven, 
+culturally-sensitive databases that can more accurately guide program evaluation and inform 
+interventions and institutional reform for better minority and non-minority student success in 
+higher education. 
+
+
+Table of Contents 
+Cover page…………………………………………………………………………. 1 
+Framework for Commissioned Paper……………………………………………… 2 
+Table of Contents…………………………………………………………………. 3 
+Motivation of the Review ………………………………………………………… 4 
+Large Numbers of Students Not Prepared and in 
+Developmental Education .....................................................…………….. 5 
+Preparation, Participation, and Persistence ………………………………... 7 
+Problems with Placement Tests …………………………………………… 13 
+Lack of a Consensus on Effective Solutions ……………………………… 17 
+Key Components for Developmental Education …………………………. 20 
+Technology and Developmental Education ………………………………. 24 
+Discussion of Methods …………………………………………………………… 26 
+A Case for Non-Experimental Studies ………………………………….. 30 
+Results from a Study ……………………………………………………… 31 
+Emerging Theoretical Basis for Effective Developmental Education …………….. 32 
+Student Integration/Engagement Models ………………………………….. 33 
+Human Capital ……………………………………………………………… 34 
+Transformation of Curriculum ……………………………………..………. 34 
+A Final Thought ……………………………………………………………………. 35 
+References……………………………………………………………………………. 37 
+
+
+
+ DEVELOPMENTAL EDUCATION: 
+AN OVERVIEW 
+In recent years, access to higher education has taken on a sense of urgency, specifically 
+for the socioeconomically disadvantaged and for minorities who come from academically 
+depressed schools or school districts (Kreysa, 2006-2007; Rendon, Novack, & Dowell, 2005). 
+While local, state and national initiatives have been created to tackle this issue, one reality that 
+campuses must address is the fact that many of these students will come to college academically 
+underprepared. The hope for these student populations is to enroll in developmental (remedial) 
+courses so that they may become better prepared academically to enroll in college-level courses 
+and vie successfully with students that are college-ready, ultimately allowing them to earn a 
+postsecondary degree. However, a major drawback to these courses is that they are not 
+applicable toward an associate or baccalaureate degree. Moreover, prevailing perceptions are 
+that, while extremely costly, developmental courses are not working and producing the desired 
+outcome. Bettinger.s and Long.s (2004) approximation of the annual cost of remediation is over 
+$1 billion dollars for public colleges alone. Opponents of remedial education consider 
+developmental education as “…a hoax perpetrated upon academically weak students who will be 
+unlikely to graduate” (Deil-Amen & Rosenbaum, 2002; Rosebaum, 2001). Proponents, on the 
+other hand, stress that most students who take remedial/developmental coursework subsequently 
+complete their degrees successfully (McCabe, 2000; Merisotis & Phipps, 1998). The remediation 
+of college students has provoked a serious discussion on the effectiveness of developmental 
+programs in successfully remediating college students. 
+.MOTIVATION OF THE REVIEW. 
+
+
+LARGE NUMBERS OF STUDENTS NOT PREPARED AND IN DEVELOPMENTAL EDUCATION. In 
+an early investigation of the remediation of college students, Hagedorn, Siadat, Fogel, Nora and 
+Pascarella (1999) reported that 46% of U.S. students enrolled in college, and who had acquired 
+credit for 3 or more courses, had been enrolled at some point in at least one remedial course, be it 
+
+
+remedial English or mathematics or a course focusing on study skills. Based on a report by 
+Adelman (1995), the authors note that remedial courses were offered in 64% of all four-year 
+colleges, 90% of community colleges, and 91% of public colleges. Non-participation in 
+remediation included those students that had achieved a high level of performance in 
+mathematics, came from families with high socioeconomic levels, were not from a racial/ethnic 
+minority group, and whose parents had either attended an institution of higher education or had 
+earned an undergraduate degree. As for those students who had received remediation, they 
+reported high levels of achievement in high school math and that the racial composition of their 
+high schools and neighborhoods was much more highly mixed, if not totally minority. 
+A year later, Merisotis and Phipps (2000) compared differences in remedial course 
+offerings between two time periods, 1983-1984 and 1995. They found that during the earlier time 
+period, 82% of all higher education institutions had offered developmental courses in reading, 
+writing, and mathematics, in contrast to the 78% reported in fall 1995. Remedial reading courses 
+were offered 66% in 1983-1984 and 57% in fall 1995. Courses in remedial writing were offered 
+73% compared to 71%; and courses in remedial mathematics were offered 71% in 1983-1984 
+compared to 72% ten years later. 
+
+A further breakdown of the data revealed that 78% of postsecondary institutions enrolling 
+first-year students in fall 1995 had offered at least one remedial reading, writing, or mathematics 
+course. Merisotis and Phipps found that all public two-year institutions and 94% of the 
+institutions with high minority enrollments had offered remedial courses. At least 29% of all 
+students enrolling in college for the first time had been assigned no less than one remedial 
+reading, writing, or mathematics course. First-year students were also more likely to take a 
+remedial mathematics course than a remedial reading or writing course, regardless of what 
+institution they attended. Based on their findings, students from the different institutions in the 
+study were not enrolled in remedial courses for any extended periods of time. Among all higher 
+education institutions, the average length of time a student took remedial courses was less than 
+one year, 28% were enrolled in remedial course for one year, and 5% for more than one year. In 
+their comparison across time, Merisotis and Phipps concluded “Although little change resulted in 
+the percentage of students enrolling in remedial courses from fall 1989 to fall 1995, college and 
+university enrollment increased by approximately a half million students. At least 78% of higher 
+
+
+education institutions enroll underprepared students and that, in all probability, more than 30% 
+of the students require remediation.” 
+In a separate study, Hoyt (1999) examined the enrollment of community college students 
+in general and found that roughly 21% of all entering students required remedial education in 
+two subject areas while 11% needed remedial education in three subject areas. Among those 
+students, 44% were assigned remedial math courses, 34% were enrolled in remedial English, and 
+12% were asked to take remedial reading courses. The author found that students who needed 
+remediation in reading generally required remediation in all three areas. The findings were 
+similar to those reported by Lewis, Farris and Greene (1996). Those authors established that 29% 
+of first-time freshmen in higher education (and 41% of first-time freshmen in public two-year 
+colleges) were enrolled in at least one remedial course. In a breakdown of who participates in 
+remediation in the state of Florida, Grimes and David (1999) reported that among the 1993 
+cohort of entering Florida community college students, 54% of the non-minority students and 
+90% of the Black students were placed into at least one remedial course. In separate studies, 
+Attewell, Lavin, Domina, and Levey (2006) and Woodham (1998) concluded that roughly 40% 
+of the more traditional student takes at least one remedial course and that remediation is more 
+frequent among older nontraditional students. 
+Although different figures have been reported by different authors, the fact remains that 
+the number of students entering higher education in need of remediation is not small. It is 
+thought that in some institutions situated in large urban areas, between 80% and 85% of first-
+time entering students are required to enroll in at least one remedial course (Krupnick, 2006). 
+
+At Chaffey College, educators estimated that 98% of their students entering college for 
+the first time were unprepared for college work in at least one basic area. In California, the 
+problem extends beyond community colleges, as four-year institutions have been forced to deal 
+with developmental education. At Cal State East Bay, for example, 70% of the 2000 freshman 
+class needed English remediation, 64% needed math remediation and 54% needed work in both 
+areas. More than 33% of UC Davis students enrolled required assistance in English. Only a little 
+more than 33% of California's 11th-graders were proficient in English in the previous year before 
+enrolling in college. Among African American students, that ratio dropped to one in five. At the 
+national level, the NCES (2004-010) report estimated that in fall 2000, some 76% of 
+postsecondary institutions offered at least one remedial reading, writing, or mathematics course. 
+
+
+An examination of postsecondary transcripts of 1992 12th-graders who enrolled in postsecondary 
+education between 1992 and 2000 indicated that 61% of students who first enrolled in a public 2-
+year and 25% who first enrolled in a 4-year institution completed at least one remedial course at 
+the postsecondary level. 
+Based on those previous studies, so many conclusions have been drawn and assumptions 
+made regarding the makeup of different groups of students in developmental education. In an 
+attempt to address these controversial issues, Grubb (2001) examined students who were part of 
+the NELS:88 database. The following table displays those assumptions that surround discussions 
+on developmental education. 
+
+Assumptions 
+
+Findings 
+
+Developmental students are 
+enrolled in too many 
+remedial courses. 
+
+Analyses indicated that, while such students exist, they are a 
+numerical minority among students in remedial courses: 
+
+. 
+42% of students took no remediation 
+. 
+44% took between one and three courses 
+. 
+only 14% enrolled in more than three remedial courses 
+
+
+At nonselective four-year colleges: 
+
+. 
+69% took no remediation 
+. 
+26% enrolled in between one and three courses 
+. 
+5% took more than three 
+
+
+At selective four-year colleges: 
+
+1. 2% of NELS:88 students took more than three remedial 
+courses 
+
+
+At highly selective four-year institutions: 
+
+. 
+almost no one attempted multiple remediation courses 
+
+
+Developmental students 
+enter college with poor high 
+school preparation. 
+
+Students from different high schools enroll in remedial courses: 
+
+1. 40% from rural high schools 
+2. 38% from suburban high schools 
+3. 52% from urban high schools 
+
+
+Developmental students 
+enter college with very 
+weak academic skills 
+
+High school quartiles and enrollment in remedial courses: 
+
+1. 10% from top quartile on skills tests 
+2. 25% from second quartile on skills tests 
+
+
+Students from advanced curriculum programs in high school: 
+
+1. 14% from top quartile enrolled in at least one remedial 
+course 
+2. 32% from second quartile enrolled in at least one 
+remedial course 
+3. 32% from lowest quartile took no remedial coursework 
+
+
+
+
+ 
+
+PREPARATION, PARTICIPATION, AND PERSISTENCE. While the previous section focused on 
+the disproportionate number of students enrolling college requiring remediation, this section 
+
+
+examines factors that impact student outcomes for developmental students. Regardless of what 
+research design or theoretical framework was employed, several findings have been reported in 
+the existing literature. While the majority of these studies have focused on evaluation, a few have 
+examined the interrelationships among behaviors, attitudes and perceptions and their impact on 
+student outcomes. Attempts at assessing the effectiveness of remediation have not only resulted 
+in mixed findings but are few in number. Moreover, the emphasis taken in these studies is just as 
+mixed, with some focusing on the differences from the participation of students in developmental 
+education to course completion, academic achievement, transfer, persistence or graduation. The 
+following sections will examine the findings associated with those studies in five categories of 
+emphasis. 
+Pre-college Background Characteristics. Hagedorn, Siadat, Fogel, Nora and Pascarella 
+(1997) compared first-year college students enrolled in remedial-type mathematics courses with 
+their counterparts enrolled in non-remedial coursework. Their findings verified that students 
+enrolled in non-remedial mathematics courses enter higher education with many advantages over 
+students enrolled in remedial mathematics. Tests of a path analytic model confirmed that, for 
+developmental students, their gender, ethnicity and family income levels played a major role in 
+determining success in college mathematics. For non-remedial students, higher income, non-
+minority status, and having parents with higher education led to higher levels of math 
+achievement. For remedial students, higher levels of high school math was the only significant 
+construct, in addition to racial composition of high school attended and neighborhood in which 
+the student resided, that affected achievement in mathematics. 
+
+In an examination of participation in a community college developmental education 
+writing course and its relationship to short and long-term academic performance, Crews and 
+Aragon (2004) revealed that initial developmental writing course participants within a three-year 
+period did not differ from non-participants at a statistically significant level with regard to age, 
+gender, ethnicity, high school experience, writing test score, initial enrollment status, degree-
+certificate intent, or transfer intent. Participants in later developmental writing courses did not 
+differ from non-participants at a statistically significant level according to the variables of age, 
+gender, high school experience, writing test score, initial enrollment status, degree-certificate 
+intent, or transfer intent. However, those enrolled in a developmental writing course past the first 
+year differed significantly with non-participants according to ethnicity. Thirty-nine percent 
+
+
+among later participants were minorities compared to 24% of the non-participants. Because the 
+study was not designed to investigate such a phenomenon, the authors could not conclude the 
+reason behind the pattern. 
+In a comparison of students enrolled in developmental education with those students that 
+entered college prepared to take college-level courses, Grimes and David (1999) did not find any 
+significant differences between developmental and college-ready students with regard to age and 
+family demographics or significant differences in gender or part-time versus full-time status. 
+Both groups of college students reported an average family income between $25,000-$29,000 
+and, in both groups, fathers who had earned credit in a few postsecondary courses or had 
+received some kind of trainings. 
+The two groups were found to be different by ethnicity, types of high school coursework 
+previously taken, high school grade point averages (GPAs), educational degree aspirations, and 
+numerous attitudinal factors. African American students were represented in greater numbers 
+among developmental students, 21% compared to 6% among college-ready students. Remedial 
+students differed from non-remedial students regarding: (1) the number of years of high school 
+coursework in math, physical science, biological science, and foreign language, (2) high school 
+GPAs with average grades of B- for developmental students compared to B for college-ready 
+students, (3) fewer planned years of college with more vocational and associate of science degree 
+aspirations than four-year or graduate degrees for remedial students, whereas college-ready 
+students planned to attend more years of college with higher degree aspirations including 
+graduate degrees, and in (4) reasons for attending college, ability ratings, previous year's 
+activities, goals and values, future activities, and opinions, as well as academic performance and 
+persistence. 
+
+ Differences as a Result of Program Participation. Utilizing college transcripts, Attewell, 
+Lavin, Domina, and Levey (2006) designed a study where the effects of remedial coursework 
+were separated from the effects of a high school preparation on different measures of academic 
+success. Furthermore, they examined those differences by two- and four-year institutions. After 
+accounting for a student.s high school academic preparation, their findings indicated that, for 
+students enrolled in two-year colleges, enrollment in remedial education was not associated with 
+less academic success. As for students enrolled in four-year colleges, there were harmful effects 
+attributed to remedial coursework. A positive finding associated with four-year developmental 
+
+
+efforts was that many minority students who completed an undergraduate degree did so after 
+taking remediation. 
+Hodges (1998) found that students required to take developmental courses (based on 
+lower ASSET scores) were somewhat successful in completing those courses. The author, 
+however, acknowledged that a completion rate of 61%-70% was only adequate. A positive 
+aspect of remediation was the finding that indicated students who were required to take 
+developmental courses prior to enrolling in college-level coursework were succeeding in non-
+developmental courses with similar completion rates; the negative side of the findings, on the 
+other hand, revealed that developmental students recorded lower grades than those students who 
+did not require any remediation because of their higher ASSET scores. 
+Because so few comprehensive, large-scale, multi-institutional evaluations of remedial 
+programs have been published, Bahr (2008) undertook such a venture paying particular attention 
+to testing the efficacy of remedial math programs. The author.s use of hierarchical multinomial 
+logistic regression to analyze data of 85,894 freshmen enrolled in 107 community colleges was 
+intended to compare the long-term academic outcomes of students participating in 
+developmental education and who successfully achieve college-level math skills against those 
+students who enter college ready to tackle college-level math skills without remedial assistance. 
+Bahr concludes that students in both groups experience comparable outcomes (achieving 
+college-level math skills) indicating that remedial math programs are highly effective at 
+resolving skill deficiencies. 
+Finally, using a regression-discontinuity design within the framework provided by 
+discrete-time survival analysis, Lesik (2007) was able to derive an unbiased estimate of the 
+causal impact of participating in developmental education in mathematics. The study established 
+that the risk of dropping out of college among developmental students was significantly lower 
+than for equivalent students who did not participate in such programs. 
+
+ Student Retention. The current section focuses on those studies that examined the impact 
+of developmental education mainly on student retention. As previously discussed, Hoyt (1999) 
+concluded that as the number of areas needing remediation increased for students, dropout rates 
+also consistently increased. The effect of remedial education was noted not only in terms of 
+student persistence but in other student outcomes such as the student's GPA during their first-
+term in college. At the end of the first-term for students in the database, the average grade point 
+
+
+average for non-developmental students was 2.8 as opposed to a 2.54 for developmental 
+students, with most students earning C grades in their courses. Those students in need of 
+remediation in two areas recorded a first-term GPA of 2.47, while those in need of remediation 
+in English, mathematics and reading had an average first-term GPA of 2.30. Hoyt noted that a 
+lack of preparation for college-level courses to a large extent reduced a student's chances of 
+college success by decreasing their ability to perform academically. 
+Bettinger and Long (2005) looked at the effects of English and math remediation on 
+student persistence. The sample consisted of first-time community college students from 1998 to 
+2003. The authors found that students placed into remediation persisted just as well as similar 
+individuals who were not enrolled in remedial courses, although math remediation appeared to 
+improve some student outcomes. Their findings substantiated those of Jepsen (2006) who had 
+analyzed the effects of taking developmental courses on persistence to the second year of college 
+for a similar sample of community college students in the state of California. Jepsen similarly 
+had found that enrolling in developmental courses was associated with returning to college for 
+the second year as well as completing transfer-level classes. However, Jepsen also found 
+differences in grouping the students by age. For the more traditional college-age students, 
+developmental courses were negatively associated with transfer; for older students, the 
+association was positive for returning and attaining a degree or certificate. 
+
+In some studies, the focus of the investigation is not on the total remediation program but, 
+rather, on individual remedial courses and the impact they may have on student outcomes. For 
+example, Crews and Aragon (2007) examined the relationships between first semester 
+enrollment in a developmental writing course at a community college and student persistence 
+and goal attainment. In their study, the authors investigated whether participants in a 
+developmental writing course completed more of the courses that they attempted, subsequently 
+enrolled in more semesters, and completed a degree or certificate and/or transferred at higher 
+rates when compared to those not required to enroll in a developmental writing course. Their 
+analysis revealed that those students that had been enrolled in a developmental writing course 
+had completed more of the hours they had attempted compared to those students that were not 
+required to enroll in a developmental writing course. The same students enrolled in the remedial 
+writing course were also found to be enrolled in more semesters than non-participants in the 
+writing course. At the end of a three-year period, participants and non-participants were 
+
+
+examined for differences in degree/certificate completion. The finding was that there were none; 
+those that initially enrolled in the writing course versus those that were not required displayed 
+similar completion rates. 
+Kreysa.s (2007) study advanced the study on remediation by focusing on the explanatory 
+predictors of student persistence among remedial and non-remedial students. An examination of 
+the regression equations for both developmental and non-developmental students revealed that a 
+set of variables based on a priori hypotheses did not exert the same influence across both groups. 
+In combing both groups, the findings would indicate that declaring a major upon entering college 
+had a positive effect by increasing the chances of persisting while changing majors had a 
+negative effect leading to more dropout behavior. Yet, the finding is misleading as there are 
+differences in how those variables play out in both groups. For non-remedial students, those 
+factors that most predicted whether the student would persist inlcuded declaring a major upon 
+entering college (positive influence), changing majors after declaring one (negative influence) 
+and the student.s cumulative grade point average (positive influence). As for developmental 
+students, those factors that influenced their decisions to re-enroll in college included the 
+student.s SAT verbal scores (positive influence), changing majors after declaring one (negative 
+influence), and cumulative grade point average (positive influence). For developmental students, 
+entering college with a lower academic ability, changing their minds on what to major in, and not 
+performing academically well led to the increased likelihood that the student would drop out of 
+college. 
+Pedagogical Factors. In their efforts at providing a conceptual framework for the 
+evaluation of developmental education programs, Levin and Calcagno (2008) reviewed several 
+studies that included a look at different remedial teaching approaches designed to raise the 
+academic performance of remedial students at two-year institutions. The authors concluded that 
+the traditional drill-and-skill approach that is often used at community colleges is not as 
+productive as other available alternatives (e.g. collaborative learning, student-led instruction) in 
+lessening the dropout rates among developmental students as well as their failure rates. For that 
+reason, they encourage community colleges to carry out formal evaluations of different remedial 
+approaches so that they may test their efficacy and cost-effectiveness, pursuing a wise 
+remediation strategy. 
+
+
+ Basic Skills Deficiencies. Another outcome associated with the remediation of college 
+students is one that deals with college-level skills. Bahr (2007) tested the hypothesis that 
+“multiple basic skill deficiencies, rather than exhibiting additive effects alone, may exhibit a 
+negative multiplicative interaction effect on the likelihood of successful remediation.” In other 
+words, the researcher tested the hypothesis that students who begin college with a math 
+deficiency may decrease in magnitude over the years if it is accompanied by an increase in 
+English competency. This interaction, however, did not have substantive importance because of 
+the powerful negative direct effect of math deficiency on the likelihood of successful 
+remediation in math. Eventually, students with math deficiencies did not overcome those 
+deficiencies as they learned and became more proficient in English. Bahr sadly concludes that 
+“although intended to reduce disparities between advantaged and disadvantaged groups, in the 
+end those who need remediation the most are the least likely to remediate successfully, while 
+those who require the least remediation are the most likely to remediate successfully.” 
+PROBLEMS WITH PLACEMENT TESTS. An issue that highly overlaps with 
+developmental education is the use of placement tests to classify remedial students and require 
+them to enroll in developmental courses. The question remains, are these placement tests 
+accurately measuring the student.s ability to engage in college-level work. A big part of the 
+assessment tools that are used to place developmental students are reading tests. Behrman (2000) 
+examined content-general reading tests from which passages from a variety of subject areas are 
+frequently used as part of a college's placement system. The author addresses issues of validity 
+that are associated with three popular content-general reading tests. Behrman proposes a 
+theoretical argument for the use of an alternative placement procedure using content-specific 
+testing. Support for the use of content-specific testing is theoretically-based on research in 
+reading and cognitive psychology that establishes the impact of content-related factors on 
+comprehension. The author not only addresses a much-discussed issue, the ability of placement 
+tests to correctly distinguish between those in real need of remediation versus those that do not 
+require intervention but does provide empirical evidence on the need to be more accurate in 
+identifying specific areas in need of remediation for those that are placed in developmental 
+courses. Behrman articulates the importance of appropriate testing: 
+
+1. Content-specific testing should benefit students with high prior declarative or 
+strategic knowledge in a given field who may have been denied access under a 
+
+
+
+
+
+content-general testing program to a course for which they were actually 
+qualified. 
+
+
+
+
+ 
+
+2. Content-specific testing should also benefit students with low prior declarative or 
+strategic knowledge by identifying the subject area in which developmental 
+assistance is needed. 
+
+
+
+
+ 
+
+3. Follow-up diagnosis could then indicate whether a low score indicates weakness 
+in prior declarative knowledge, content-related strategic knowledge, or content-
+general skills. 
+
+
+
+
+ 
+In a case study that examined the effectiveness of teaching developmental writing 
+courses, Southard and Clay (2004) relied on the measurement of skills provided by the Florida 
+College Placement Test as the major outcome used in their comparisons. The assumption guiding 
+the study hypothesized that a college prep English course prepared students to succeed in a 
+college-level composition course. The authors found no significant difference in the mean 
+college-level composition grades between those students that initially enrolled in the 
+developmental English course and those students that initially enrolled in the college-level 
+course. Even more positive findings revealed that developmental students passed the college-
+level composition course at a higher rate than that of non-developmental students. Remedial 
+students withdrew at a lower rate from the composition course than their non-remedial 
+counterparts, and required fewer attempts to pass the course. However, the data revealed one 
+indeterminate and disturbing finding. Southard and Clay found a non-significant association 
+between Florida.s state-mandated placement test scores and student grades in all writing-
+intensive courses. One possible implication of that finding is that the placement tests may not 
+function as they were intended. The fact that many students placed into remedial courses 
+outperformed non-remedial students could possibly point to the misclassification of students. 
+Without more theoretically-sound research, it is difficult to say whether the remedial students 
+outperformed non-remedial students because of the remediation provided by the developmental 
+education they received or simply because many remedial students were not in need of 
+remediation. 
+
+ Further evidence of the lack of validity in current placement tests is seen in an earlier 
+study by Lavin and Weininger (1998). While the authors found that graduation rates were 
+inversely related to the number of academic skills or placement tests that remedial students had 
+
+
+failed, they pointed out that approximately a quarter of those students who initially failed all of 
+the placement tests subsequently graduated. When ethnicity was introduced into the analysis, 
+Lavin and Weininger noticed that among African American, Hispanic, and Asian American 
+students that had earned a bachelor.s degree, over 50% of them initially failed skills tests, 
+exceeding the number of minority students who had initially passed all of the areas covered in 
+the placement tests. The investigators arrived at a rather misguided conclusion: “While 
+placement in remedial courses per se did nothing to enhance students. subsequent academic 
+achievements, success in remedial courses did make a significant difference. Among students in 
+bachelor.s degree programs, those who passed at least one of their remedial courses were more 
+likely to persist in college than were comparable low-skill nonremedial students, and they earned 
+more credits.” They further established that similar results were found among two-year college 
+students. “Students who passed at least one of their remedial courses (85% of takers were in this 
+category) were more likely to stay in college, and were more likely to graduate or to transfer into 
+a bachelor.s degree program than were otherwise similar students who did not take remedial 
+coursework.” It is possible to conclude that remediation makes a difference; it is just as easy to 
+reach the conclusion that placement tests were not as accurate in classifying students. Once 
+more, without further research, it is difficult to reach a valid conclusion. 
+Mazzeo (2002) examined the enactment and early implementation of remedial education 
+in two states, MA and OK. In both states, remediation reforms were undertaken as part of a 
+larger set of policies aimed at increasing the motivation of students by raising the stakes for their 
+academic performance. A big part of the reform was based on the notion that high-stakes testing 
+would provide incentives for learning that were otherwise absent in the American educational 
+system and thus would have the potential to motivate higher levels of student academic 
+performance (Bishop, 1996, 1998; Costrell, 1994). The implementation of high-stakes testing 
+statewide is predicated on the ability and validity of placement tests to accurately identify those 
+students most in need of remediation. Those efforts have been supported and aided by national 
+organizations as the College Board, as in the developmental of the Florida College Placement 
+Test. 
+
+The efficacy of remediation relies largely on actionable assessment, advising, and 
+placement. At the October 2008 meeting of the Higher Education Policy Institute, a project of 
+the Texas Higher Education Coordinating Board, one conclusion reached by a group of experts 
+
+
+from different sectors of higher education centered on the need to have assessment and 
+placement of students into developmental courses based on valid and accurately derived 
+placement scores along with the need for clear roadmaps leading to the completion of students. 
+program/educational goals. It is believed that student academic needs can only be addressed with 
+the use of reliable and conceptually valid placement tests. Such tests would provide the starting 
+point for remediation and the design of specific academic plans for students to follow on their 
+way to a successful completion of their postsecondary goals. 
+
+What doesn.t work in the assessment of students for placement is the lessening of 
+standards at the state or institutional levels. Perin (2006) conducted an investigation of state and 
+institutional practices for remediation in 15 two-year colleges that were specifically selected for 
+a representative sample of community colleges by region, size, and unbanicity. The author 
+found that in dealing with the struggle between the access mission of the traditionally open-door 
+community college and the drive to protect educational standards, quite often assessment and 
+placement mandates were softened either at the state or institutional level, with the effect of 
+reducing the number of students who were required to enroll in remedial courses. 
+
+
+
+One program addressing the issue of underprepared students through appropriate and early 
+assessment of students is the Early Assessment Program (EAP), a collaborative effort among three 
+important state entities in California: California State University (CSU), California Department of 
+Education (CDE), and California State Board of Education (SBE). The goal of the partnership was to 
+ensure that college-bound high-school graduates have the English and mathematics skills expected 
+by the state university. The program specifies that after 11th-graders take a state placement test, they 
+are notified whether they have either met the CSU expectations (and are thus exempt from any 
+additional CSU placement tests) or whether they need additional preparation in order to be successful 
+in college-level work. Those identified as requiring remediation have their entire senior year to 
+prepare further. Individual strengths and weaknesses are pinpointed by using the CSU Diagnostic 
+Writing Service on the web or the Mathematics Diagnostic Testing Project. The final component of 
+the intervention program is faculty development. Through a collaborative effort, faculty in the CSU 
+teacher-education program sponsor reading institutes and develop materials through which high 
+school teachers can improve their skills in helping students to read and write effectively. The 
+program was enacted in 2004 and yearly reports are available on the internet. However, an 
+examination of the EAP 2008 Report reveals that even after four years, 82% of high school students 
+did not demonstrate college readiness for College English and 75% did not demonstrate college 
+
+
+readiness for College Mathematics (Algebra II), while at the same time reporting that 65% were only 
+conditionally ready based on a summative high school mathematics test and 14% not ready to handle 
+college math. No studies have been conducted to uncover why such an assessment initiative has not 
+had the positive results that were widely anticipated. 
+Recently, the Education Commission of the States (2006) examined the placement 
+policies of states. In their study, the Commission identified several issues surrounding 
+developmental education: placement tests and mandatory remediation, concurrent enrollment, 
+limits on time and course repeats, and strong state control. Their observation revealed that while 
+several issues were debated in a fair number of states from 2004 to 2006, relatively little policy 
+action was taken with respect to any of them. Among those issues that generated the most state 
+policy actions during that time period was mandatory remediation for students who failed 
+placement exams, emphasizing the importance of the validity and accuracy of those instruments 
+that are used for placement into remedial courses. 
+LACK OF A CONSENSUS ON EFFECTIVE SOLUTIONS. Perhaps even more important is 
+whether or not remediation fulfills it major goal, providing an opportunity to successfully engage 
+a college-level curriculum and ultimately earn an undergraduate degree. The literature is mixed 
+on this subject matter, somewhat limited in scope, and to a certain extent, dated. 
+
+Guided by conventional thinking that two-year colleges are institutions that simply cool 
+out the educational aspirations of students, Deil-Amen and Rosenbaum (2002) examined 
+remediation in community colleges and concluded that extending the length of time to 
+graduation by requiring students to enroll in developmental education was detrimental to those 
+students. The authors conclude: “This process looks a lot like the swindles that Goffman 
+…described” and “the delayed recognition caused by a stigma-free approach may be contributing 
+to students dropping out of college altogether and hence accumulating no credentials rather than 
+a lesser degree” (p. 264). Adelman (2004) found that students that were required to enroll in 
+remedial courses in college had markedly lower graduation rates, noting that only 39% earned a 
+bachelor.s degree in contrast to the 69% who earned degrees and were not required to enroll in 
+developmental courses. Adelman concluded that students that are required to take copious 
+remedial courses in college are among the least likely to graduate from college. Further evidence 
+that the length of time that is added by enrolling in remedial courses is contributing to the 
+dropout problem was the percent (55%) of students that graduated with a degree but had only 
+
+
+taken one developmental course. For those students that enrolled in five or more remedial 
+courses, only 35% ever graduated with a degree. It is possible that for many developmental 
+students, the unsuccessful performance in remedial courses extends the length of time in college, 
+does not bring the student closer to earning college-credit courses, and adds a financial burden 
+with every new semester enrolled in college. 
+Grimes and David (1999) examined differences in semesters enrolled, hours completed, 
+GPA, and persistence rates between remedial and non-remedial students. The authors reported 
+that for course completion rates (calculated by dividing the total hours each student completed by 
+the hours they attempted) those students considered underprepared recorded a 59.7% completion 
+rate, having earned 28.8 mean credit hours and attended an average of 4.11 semesters. For 
+college-ready students, a 76.7% completion rate, 45.74 mean credit hours and 4.91 semesters 
+were recorded. The difference in the average number of semesters for which developmental 
+students enrolled in remedial courses, on the surface, may look as though it substantiates an 
+entirely opposite view. However, taking into account the number of credit hours earned, one 
+conclusion that can be drawn is that developmental students who had attended an average of 4.11 
+semesters, but had only earned a mean of 28.8 credit hours, had spent a large amount of time in 
+remediation as opposed to those students who were not required to take remedial courses. After 
+an average number of 4.91 semesters, these students had earned twice as many credit hours in 
+roughly the same time period. For remedial students, the extra time without credit may have been 
+too much and may have decided to drop out of college. 
+Grimes and David (1999) also examined differences in persistence rates, imposing a 
+three-year completion rate. Their study revealed that retention was significantly greater for those 
+students that were considered as college-ready: a three-year graduation rate of 15%, with 32% 
+completing more than 65 semester hours or remaining enrolled in college. Underprepared 
+students, on the other hand, displayed a 2% graduation rate with 25% completing more than 65 
+hours or still enrolled in college. In other words, the attrition rate (or the number of students 
+dropping out of college) at the end of a three-year period was 53% for the college-ready students 
+compared to 73% for underprepared students. 
+
+ While the preceding studies make note of the lack of success of remediation efforts, other 
+investigations point to the effectiveness of developmental education. Similar to the previous 
+studies, these reports have focused on specific outcomes to include graduation rates, academic 
+
+
+performance, course completion rates, hours earned and student persistence rates. Merisotis and 
+Phipps (2000) point to the evidence that reveals a story of success for developmental education. 
+While students that never took a remedial course graduated at a rate of 60%, even those students 
+identified as the least academically prepared who took five or more remedial education courses 
+reported a 35% graduation rate. Based on those figures, the authors concluded that the 
+remediation of students that were academically weak made it possible for those students to 
+perform almost three-fifths as well as the students who did not need any remediation. 
+Developmental students who needed to enroll in two remedial courses performed almost three-
+quarters as well as the academically strongest students. 
+In a multivariate analysis comparing developmental and non-developmental students at 
+both two- and four-year institutions, Grubb (2001) emphatically establishes the effectiveness of 
+developmental education for underprepared students. His research led to several findings: 
+
+. 
+Public colleges are more likely to require remedial coursework than private institutions, 
+for equivalently skilled students. 
+. 
+A student is also less likely to graduate from a public than from a private university. 
+. 
+Black students are more likely to take remediation than similarly prepared White 
+students. 
+. 
+The data shows that 28% of remedial students in two-year colleges graduate within 8.5 
+years (compared to 43% of non-remedial students) and that 
+. 
+52% of remedial students in four-year colleges finish bachelor.s degrees (compared to 
+78% of students without remedial coursework). 
+
+
+Grubb concludes that: “The gap in graduation rates has little to do with taking remedial 
+classes in college as opposed to preexisting skill differences carried over from high school.” In 
+separating differences between institutional types, Grubb notes that, at two-year colleges, taking 
+developmental courses was not linked with lower chances of academic success. Moreover, this 
+same conclusion was found for those students who had been enrolled in three or more remedial 
+courses. The results of his multivariate analyses led him to conclude that two-year college 
+students who took remedial courses were only somewhat less likely to drop out in the short run, 
+and were also somewhat less likely to graduate than were non-remedial students with similar 
+academic backgrounds. More to the point, those community college students that were required 
+to enroll in remedial courses and successfully passed them were more likely to graduate than 
+
+
+equivalent students who never took remediation, “suggesting that developmental courses did 
+help those students who completed them.” 
+Grubb also examined students enrolled in remedial courses at four-year institutions. His 
+findings pointed to a modest and negative effect of remediation on the students. chances of 
+graduation, even when prior academic preparation and skills were taken into account. At four-
+year colleges, the graduation rate for students who initially had to take developmental 
+coursework was about two-thirds of the graduation rate of students who took no remediation. 
+However, while the rate of graduation did not exactly match for both developmental and non-
+developmental students, the fact that there was 66% similarity in completion rates makes a 
+positive case for developmental education. 
+At the state level, Bettinger and Long (2004) utilized a longitudinal database of 8,000 
+first-time, first-year students that were enrolled in nonselective four-year public colleges in Ohio 
+from 1998 to 2002. Their goal was to gauge the consequences of taking remedial coursework in 
+mathematics. As in similar studies, the effects of remediation after controlling for prior academic 
+skills were analyzed. The authors. conclusions were: (1) Students enrolled in remedial math 
+courses were to some extent more likely to drop out or transfer to a two-year college when they 
+were compared to academically equivalent students not enrolled in developmental courses; (2) 
+Remediation did not significantly lower the likelihood of earning a bachelor.s degree; and (3) 
+Students attending four-year colleges who completed their college remedial coursework were 
+more likely to earn an undergraduate degree compared to those equivalent students who did not 
+complete remedial math. Contrary to popular belief, success in remedial mathematics courses 
+improves a student.s chances of graduating with a degree. 
+KEY COMPONENTS FOR DEVELOPMENTAL EDUCATION. Several years back, the 
+Institute for Higher Education Policy (1998) noted that additional research needed to be 
+conducted to address the gaps in knowledge about remedial education. It was suggested that case 
+studies of several key states would help to determine how strategies proposed and utilized met 
+state goals. In spite of that request, little empirically-based research has been added to the 
+knowledge base surrounding developmental education and its effectiveness in remediating 
+students. Nevertheless, several researchers and practitioners have identified different, yet 
+overlapping, sets of components that are believed to be effective and necessary for 
+developmental education to succeed. 
+
+
+McCusker (1999) based those essential components of a developmental program on 
+proven success as measured by the percentage of students' course completion and continuing 
+college education. The author proposed that the following strategies have emerged as 
+recommended ways of making developmental programs effective: 
+
+. 
+Collecting student biographical data before and after remedial course completion. 
+. 
+Linking counseling and support services with programmatic interventions and providing 
+counselors with student profiles and course reading and writing requirements. 
+. 
+Linking learning assistance center activities with classroom instruction. Incorporating 
+volunteer instructors and peer tutors in language labs. 
+. 
+Using computers in the classroom and learning lab. 
+. 
+Using multi-learning systems (different learning approaches) and structuring sequential 
+courses. 
+. 
+Initiating flexible testing and completion strategies. 
+. 
+Awarding college credit to some no-credit remedial courses. 
+. 
+Minimizing remedial class size and hiring instructors who specialize in remediation. 
+. 
+Requiring remedial instructors to share remediation techniques and otherwise collaborate 
+with content-area faculty. 
+. 
+Requiring content-area faculty to give reading and writing assignments to students. 
+Implementing developmental education through the curriculum, as in adjunct models. 
+. 
+Monitoring student behaviors and continuous evaluation of program effectiveness. 
+. 
+Communicating with other community colleges to share internal evaluations, 
+suggestions, and successful activities. 
+
+
+Merisotis and Phipps (2000) further develop strategies proposed by the Institute for 
+Higher Education Policy (1998) and provide a set of recommendations. Their suggestions focus 
+on reducing the need for remediation in higher education by aligning high school and college 
+requirements. Further, they propose early intervention for those needing remediation and 
+providing financial aid programs to developmental students. Merisotis and Phipps also 
+emphasize the need for student tracking and high school feedback systems so that student 
+outcomes and enrollment patterns can be assessed and effectively compared. The responsibility 
+for student remediation should also be shared by faculty, proposing that teacher preparation 
+needs to be addressed. One important component of any remediation initiative is requiring better 
+
+
+institutional collaboration so that practices that work can be shared and compared among 
+institutions dealing with student populations with similar characteristics, avoiding the one-size-
+fits-all model. Just as important is the need to make remediation a comprehensive program, both 
+in scope and institutional involvement. A good example of a comprehensive, and successful, 
+approach is found in California.s Bridge Program. The core components of that program 
+includes having: (1) comprehensive faculty and staff development that will transform teaching 
+and learning in the classroom; (2) a holistic approach to teaching and utilizing learning 
+communities; (3) accurate assessment of student academic needs, (4) validation of students as 
+learners in a classroom setting, (5) involvement of the community and parents in the advising 
+and mentoring of students; (6) comprehensive academic support; (7) comprehensive student 
+support services through the involvement of staff in learning communities; (8) institutional 
+climate and cultural adjustments to increase a sense of belonging for all students; (9) full 
+engagement of students in the academic and social domains of the institution; (10) a well-
+organized plan to aid the transition to college for students; and, finally, (11) the development of a 
+culture of care and success in the classroom as well as outside of the classroom. 
+In their efforts to deal with the issue of remediation in Texas higher education 
+institutions, the Higher Education Policy Institute (2008) has identified a set of changes that 
+provide a myriad of modifications to standard offerings. Those more innovative offerings include 
+such approaches as self-paced remediation, personalized remediation, tutor-based remediation, 
+on-line remediation, accelerated remediation, intensive summer remediation, contextualized 
+remediation, combined reading-writing remediation, and combined remedial and college English. 
+However, while many of these approaches have received positive feedback at the program level, 
+there still is not sufficient empirical evidence on the efficacy and success of those efforts at all 
+levels of higher education. 
+
+Perin (2006) compared mainstreamed and centralized developmental education through a 
+set of criteria: (1) quality of instruction, (2) availability of ancillary support services, (3) teacher 
+motivation and experience, (4) student reactions, and (5) reputation of developmental education 
+in the larger college structure. After comparison of both approaches, Perin concluded that 
+centralized and mainstreamed developmental education models each had advantages and 
+disadvantages. The findings ascertained that mainstreaming had the potential for higher quality 
+of instruction and more positive student reactions while centralized departments were superior 
+
+
+regarding ancillary support services and teacher motivation and experience. Both approaches 
+suffered from the low reputation of developmental education in higher education. Once again, 
+not one model stood out as the way to go on remediation. 
+One final approach to developmental education begins to incorporate the findings of 
+several theoretical, trend and descriptive studies on student persistence and learning 
+communities. Engstrom and Tinto (2008) synthesize the different empirical findings in the 
+existing literature and set forth six major recommendations for adapting the learning community 
+model to basic skills instruction for academically under-prepared, low-income students. 
+
+
+1. Increase the number and variety of learning community programs for students taking 
+basic skills with a special emphasis on linking reading and writing courses as well as 
+integrating basic skills math courses into the models. 
+
+
+ 
+
+2. Identify and remove potential barriers, such as personnel, campus policies, local or state 
+policies that can hinder the development of linked course offerings that infuse critical 
+academic support services. For example, institutional policies should not limit students 
+with basic skill requirements to complete these courses before being able to enroll in 
+credit-bearing general education or major courses. In addition, student requirements to 
+pass state-mandated proficiency tests often can get in the way of developing linked 
+curricula. 
+
+
+ 
+
+3. Students tend to enroll in learning communities because the model appears to be more 
+convenient and a more efficient use of their time. Although students later realize the other 
+benefits of participation (e.g., connections with faculty and peers, deeper learning), their 
+decision-making focuses on factors that seem to make their life less complicated. These 
+elements of the learning community programs should be more clearly communicated and 
+marketed to students, using student vernacular and stories in publication pieces, on the 
+campus website, or orientation programs. 
+
+
+ 
+
+4. Design learning community programs using the key structural and pedagogical elements 
+that contribute to the positive delivery of basic skills classes. 
+
+
+
+ 
+
+5. Provide ongoing faculty development programs about how to use active and collaborative 
+pedagogies in the classroom as well as strategies for introducing and rewarding student 
+participation in activities that keep them on task outside of the classroom such as study 
+groups and tutoring services. Faculty also needs to learn how to teach in ways that engage 
+and motivate students who have been disengaged from their schooling experiences for 
+some time (Rendon, 1994, 2004). 
+
+
+ 
+
+6. Systematically evaluate learning communities using longitudinal, quantitative data that 
+examines student persistence over time and disaggregates findings based on racial, 
+gender, age, income, and language proficiency. 
+
+
+TECHNOLOGY AND DEVELOPMENTAL EDUCATION. While the previous section was 
+intended to identify those key components for successful remediation of students, most of the 
+authors did not include the need for technology in developmental education with the exception of 
+two authors. Merisotis and Phipps (2000) advocate the utilization of technology to increase the 
+effectiveness of developmental education for reasons that are quite evident. However, in an 
+overview of the literature concerning technology at the post-secondary level, Nora and Snyder 
+(2009) conclude: “Perhaps the urgency to find the „magic pill. to cure our educational system of 
+its dropout [and remediation] crisis has led us to the point where we are willingly accepting of 
+whatever promises to make things better. The reality, though, is that we do not know enough of 
+the benefits or misperceptions of technology as they relate to important student outcomes” (p. 
+16). The authors noted some evidence of the relationship between technology and student 
+outcomes. For example, Xu, Dunn, and Lee (2000) examined the influence of using an integrated 
+approach to instructional technology (primarily the Internet) on student learning and the 
+acquisition of their research skills. Xu, Dunn, and Lee established that a student.s final grade was 
+significantly correlated to both the frequency of computer use by students as well as their 
+perceptions of feeling competent with instructional technology. Cheung and Huang (2005) 
+explored the manner in which the Internet is utilized in and enhances university learning from a 
+student.s perspective. The four major areas of interest related to the use of the internet were: the 
+benefits associated with using the Internet as part of a university education, the main influences 
+affecting such use, the impact of such use on student learning, and factors fostering positive 
+
+
+attitudes in students toward the use of the Internet. The Internet was found to favorably impact 
+specific outcomes – general learning and constructive learning. Moreover, students that 
+possessed the skills necessary to deal with the use of the Internet were more likely to engage 
+through distance learning and to achieve higher levels of constructive and general learning. 
+Adding to those findings is the research by Frear and Hirschbuhl (1999), Grabe and 
+Sigler (2002), Newby and Fisher (1998) and Waks and Sabag (2004). Frear and Hirschbuhl 
+(1999) tested the relationship between interactive multi-media and academic achievement and 
+higher level thinking skills. Their study focused on the impact of interactive multimedia 
+simulations (e.g. text, animation, sound, video, and graphics) as a way to integrate and transform 
+a high volume of information into workable solutions on students. course grades and high-level 
+thinking skills. Through the use of the Group Assessment of Logical Thinking (GALT) 
+(Roadrangka, Yeany, & Padilla, 1983), the authors found that in comparing a treatment group 
+and a control group those students assigned to the intervention scored significantly higher on the 
+GALT post-test as opposed to the control group. Those students that had participated in an 
+interactive multimedia instruction were found to have a notably greater proportion of B grades or 
+better than students taught through a more traditional approach. In a separate study, Grabe and 
+Sigler (2002) examined the influence of technology on course achievement through a lens that 
+spotlighted on the student.s study behavior. Students were introduced to online study tools 
+(access to lecture notes, multiple choice practice and short answer practice questions, and book 
+notes) that could be used in preparation for course assignments and examinations. The intent of 
+that project was to provide an available study support system within a naturalistic environment 
+for the student. Those students that accessed the Website and made use of the study tools were 
+found to perform much better on three different examinations than those students that did not 
+avail themselves of the opportunity to use the online study tools. 
+
+Newby and Fisher (1998) tested the association between computer laboratory 
+environment and several student outcomes. The results of a covariance structural model 
+indicated that a computer laboratory environment indirectly impacted student achievement by 
+directly impacting students. attitudes. Utilizing a true experiment with a pre-test/post-test control 
+group design, Waks and Sabag (2004) investigated the influence of the use of project-based 
+learning on student achievement compared to the effects of traditional training or via lab 
+experiments. The authors were particularly interested in the extent to which achievements in 
+
+
+“Digital Electronics” improved when learning in a project/technology-based environment 
+compared to the achievements of students who conduced structured laboratory experiments. The 
+results revealed that students in the experimental group achieved statistically significant higher 
+academically than those students in the control group. While all of the preceding studies 
+indicated that technology had a positive impact on student achievement, it is noteworthy to keep 
+in mind that in all of those studies, no remedial students or classes were involved. However, it is 
+not implausible to suspect that those same positive results can also be achieved with 
+developmental students. 
+
+.Methodological Considerations in Developmental Studies. 
+
+ 
+
+One reason for the mixed findings regarding the effectiveness of developmental 
+education has been blamed on methodological considerations that are often ignored by 
+investigators in their evaluations of remedial education. Lesik (2008) notes: “With various 
+programs and initiatives in higher education it may not be practical or even possible to use a 
+random assignment to establish equivalent treatment and control groups (Leake & Lesik, 2007; 
+Lesik, 2006, 2007).”1 Using an appropriate statistical technique that can handle the many 
+methodological issues surrounding the study of the effectiveness of programs and initiatives in 
+higher education, the regression-discontinuity design, Lesik (2007) concluded that there is no 
+impact from the participation of students in developmental programs on outcome effectiveness. 
+The author describes regression-discontinuity analysis (Thistlethwaite & Campbell, 1960; 
+Trochim, 1984) as a way of establishing treatment and control groups which are, on average, 
+equivalent to each other with respect to both observed and unobserved factors with the exception 
+of a group assignment. 
+
+1 In the regression-discontinuity design, an assignment of an exogenous variable is made that classifies participants 
+to a treatment or control group. The assignment variable uses a known cutoff score that is established prior to when 
+the treatment began (Shadish et al., 2002). Subjects are assigned to either the treatment or control group based on 
+where they score relative to the cutoff point of the assignment variable (Leake & Lesik, 2007; Lesik, 2006; Lesik, 
+2007). With the establishment of an assignment variable based on a known cutoff score prior to when the treatment 
+began, participants who score just below the cutoff will, on average, be similar to those participants who scored just 
+above the cutoff score. By focusing at a very narrow space around the cutoff score, the assignment to either the 
+treatment or control group is in effect what a random assignment would generate. Differences between students who 
+scores just below the cutoff score and those who score just above the cutoff score is equivalent to what a tie-
+breaking random experiment would generate at the cutoff score (Shadish et al., 2002; van DerKlaauw, 2002). 
+
+Bettinger and Long (2005) used the strategy on data from public four-year institutions in 
+the state of Ohio. The authors found that enrollment in remedial mathematics and English 
+
+
+courses not only reduced the likelihood of dropping out but also increased the likelihood of 
+persisting to degree completion. In their initial report on learning communities, Learning 
+Communities (2008) notes that the lack of evidence supporting the different aspects of those 
+communities is simply because “most of the research on learning communities has been unable 
+to establish causal links between the intervention and outcomes, especially academic outcomes” 
+(p. 2). The authors attribute the lack of a knowledge base on the failure of evaluations to meet 
+“the „gold standard. of random assignment design.” The difficulties in achieving “true” random 
+assignment can be seen in the wording used to describe the procedure: 
+Students are randomly assigned into the program group, which enrolls in a 
+learning community, or the control group, which enrolls in the standard courses 
+available to all students at the college. …To maximize contrast between the two 
+research samples, students in the control group generally agree not to enroll in 
+learning communities that involve developmental classes for at least two years 
+after random assignment, but enrollment restrictions vary somewhat by site and 
+are specified on the informed consent agreement. For example, students in the 
+control group at HCCS are not allowed to enroll in any learning communities 
+during the first semester, but they are allowed to enroll in nonmathematics 
+learning communities in subsequent semesters. (p. 31) 
+
+
+Three issues must be addressed in attempting an experimental design in an educational 
+setting. The first is the strict manipulation of the independent variable, or intervention, in the 
+design of the study. The wording “…generally agree not to enroll in learning communities…” 
+implies that the strict condition of non-enrollment for the control group is not in the hands of the 
+researcher. The possibility of contaminating the control group by including students that are 
+enrolled in a class that is taught through a learning communities approach will only serve to bias 
+the results of the study. The second issue is related to cross-contamination in one or both groups. 
+Students enrolled in the treatment group are not isolated from other students nor are they 
+prohibited from interacting with peers who may be enrolled in the control group. Discussions 
+and the use of materials and techniques by those in the control group who have come into 
+contact, or have formed relationships, with treatment students cannot be controlled. The third 
+issue related to the inability to achieve true randomization is the reliance on statistical 
+approaches used to compensate for the design.s shortcomings in an educational setting. Whether 
+through the use of an analysis of covariance (ANCOVA) or discontinuity regression analysis, the 
+identification of appropriate, and sufficient, covariates is overwhelming and very difficult to 
+overcome. 
+
+
+ The use of inappropriate designs and techniques to assess the impact of remediation on 
+student outcomes oftentimes can lead to misleading conclusions that remedial education is 
+effective in assisting students to catch up with college ready students. Kreysa (2006-2007) 
+attributes the lack of high-quality research evidence on the effectiveness of remediation to the 
+scarcity of data and the abundant methodological flaws not addressed with existing data. Grubb 
+(2001) also argues that numerous evaluations of developmental programs are useless because 
+they do not specifically address what programs do and consequently provide little empirical 
+evidence about what needs to change to make them more effective. In other words, without 
+examining the behavioral, attitudinal and cognitive experiences within the context of an 
+intervention or the relationships between those experiences and student academic outcomes, 
+there is very little guidance of what needs to be done for scalability of an intervention. 
+Quite simply, using program outputs such as whether or not a student participated in a 
+linked curricula, or even an assignment to a specific study group, does not tell much of a story as 
+to real-life experiences, thought processes or behavioral reactions that students had as they were 
+introduced into the different aspects of the intervention. If differences among the two groups 
+merely compare the performances between developmental and non-developmental students in 
+terms of persistence, graduation or academic achievement, remedial students obviously perform 
+far worse than those college ready students, attributed mainly to pre-existing differences rather 
+than to the intervention (Bettinger & Long, 2005; Grubb, 2001). Another shortcoming of 
+previous empirical research is that it does not tackle the issue of how and why students are 
+placed in remedial programs (Adelman, 1996). 
+Related to the inability to randomly assign students into a treatment or control group, 
+evaluations of course grades subsequent to remediation most often do not take into account the 
+reality that those who successfully complete remedial courses will do better than those who drop 
+out. Grubb (2001) contends that the reason some studies find that students who successfully 
+complete remedial courses have better educational outcomes than similar nonremedial students 
+(e.g., Attewell et al., 2006) is more related to the fact that the sample of remedial students are 
+self-selected. As a result, a comparison between those students that successfully complete their 
+remediation and college ready students biases the results of the intervention upward because the 
+low-performing students who dropped out without completing the remedial sequences are 
+excluded from the analysis. 
+
+
+Another reason for mixed findings is linked to the misspecification of theoretical 
+frameworks, subsequently leading to the inappropriate selection of variables or the exclusion of 
+variables in hypothesized models. This shortcoming is usually related to the use of 
+nonexperimental designs to examine the effectiveness of developmental education. While this 
+design does not rely on random assignment components or any manipulated design components, 
+researchers often try to eliminate selection bias through a statistical technique that employs a set 
+of control variables such as prior academic results and socioeconomic status, ignoring the 
+selection to remedial courses. 
+Unfortunately, the use of non-experimental designs to evaluate the cause and effect of 
+remediation on a variety of outcomes becomes difficult to defend in higher education because the 
+correct identification and selection of key control variables is difficult to accomplish. Oftentimes, 
+some factors are difficult to measure. Grubb (2001) notes: “Nonexperimental designs used to 
+evaluate the effectiveness of remedial courses should be conducted only when key student 
+characteristics such as socioeconomic background, test scores, and data on previous educational 
+experiences are well measured.” An example of the appropriate use of this design on a national 
+database was conducted by Attewell et al. (2006). Using data from NELS: 88, the authors 
+utilized propensity score matching and key student background characteristics to provide an 
+evaluation of the effectiveness of remedial courses. Their results led to the conclusion that 
+developmental education did not exert a negative effect on degree completion at two-year 
+colleges but that there was a negative impact of 6% to 7% on degree completion at four-year 
+colleges. Moreover, community college students who successfully completed remedial courses 
+had better educational outcomes than similar non-remedial students, substantiating the findings 
+by Lavin et al. (1981) and Moss and Yeaton (2006). 
+
+ A more serious problem associated with non-experimental designs is not that appropriate 
+control variables are difficult to find but that these designs are used to establish cause and effect. 
+The designs are not intended to be used for program evaluations. The strength of non-
+experimental designs and sophisticated statistical techniques such as structural modeling is to 
+establish the interrelationships among a set of variables dictated by a sound theoretical model, 
+not simply for establishing differences between groups. When these models are specified 
+correctly, the focus of the study is on uncovering the underlying structural patterns among 
+variables found in natural settings. After all, what is the sense in finding that those in 
+
+
+developmental education do better or worse than non-developmental students if statistical 
+control, be it through random assignment or discontinuity regression analysis, does not represent 
+reality in the classrooms. Students do not sit in class having checked their values, attitudes, high 
+school experiences and perceptions at the door. 
+An Example of a Non-Experimental Study. Nora and Garcia (2001) examined the 
+perceptions of remediation among developmental students in higher education to determine their 
+influence on student achievement and adjustment. The research focused on testing an integrated, 
+comprehensive conceptual framework consisting of seven theoretically-driven blocks of 
+variables - pre-college factors, environmental factors, academic experiences, social integration 
+factors, academic performance, institutional/goal commitment factors and perceptions of 
+remediation for their impact on student persistence. The sample in the study was selected from 
+among 1,329 female and 1,037 male students enrolled in an urban, open admissions, commuter 
+institution comprised of full-time and part-time students of which 54% commuted 11 or more 
+miles to campus. A total of 86% of the sample were between the ages of 18 and 22. Nine scales 
+were derived to capture remediation perceptions: Value of Remediation, Transitioning to 
+Classes, Utility of Remediation, Feelings of Marginalization, Pre-College Underpreparedness, 
+Fairness in Placement, Learning Deficiencies, Acquisition of Literacy Skills, and Practical 
+Meaningfulness of Remediation. 
+The following table displays the results of the logistic regression analysis that was 
+conducted on the data. The table represents the seven blocks introduced into the regression 
+equation with a listing of the individual variables that comprised each block along with the 
+indication as to whether the variable had a negative or positive influence on student withdrawal. 
+
+
+Variables Impacting Student 
+Persistence 
+
+
+Impact on Outcome 
+
+ 
+
+Pre-College Factors 
+Accuplacer Reading Score 
+
+ 
++ 
+
+Reading proficiency plays an important 
+role in the successes of developmental 
+students in college. 
+
+Environmental Factors 
+Hours Per Week Employed 
+Work On-Campus 
+Work Off-Campus 
+Difficult to Finance Education 
+
+ 
+- 
+- 
+- 
+- 
+
+Working (on-or off-campus) and the 
+stress associated with financial 
+concerns significantly pushes the 
+developmental student to choose to 
+leave college. 
+
+Social Integration 
+Social Integration 
+
+ 
++ 
+
+Students with higher levels of 
+involvement in the social aspects of 
+
+
+
+
+university life are more likely to 
+remain in college. 
+
+Academic Experiences 
+Positive Academic Experiences 
+Academic Resource Utilization 
+
+ 
++ 
++ 
+
+Students that more actively utilize 
+campus academic resources and 
+engage in positive academic 
+experiences are more likely to remain 
+enrolled. 
+
+Academic Performance 
+GPA 
+
+ 
++ 
+
+High GPAs are a positive motivator for 
+students to stay in college. 
+
+Institutional Commitment 
+Institutional Commitment 
+
+ 
++ 
+
+Students who feel that they belong at 
+their respective institution and who 
+believe that there is a definite benefit to 
+attending their institution are much 
+more likely to re-enroll in college. 
+
+
+
+ 
+Results from the Study. In addition to those included in the previous table, five factors 
+related to perceptions of remediation were found to predict the likelihood of persistence. The 
+value that students placed on remediation related to support, assistance and encouragement made 
+a difference. Students who perceived remediation as beneficial and necessary were more likely to 
+re-enroll after their first year in college. Students were also affected by perceived feelings of 
+discrimination and marginalization (in class and off-campus), but in a surprising direction. 
+Remedial students that perceived discriminatory behavior from faculty and peers were more 
+likely to persist. While originally surprising, further examination revealed that students. 
+perceptions of those behaviors led to an “I.ll show you” phenomenon. Regardless, perceptions of 
+discriminatory behavior exerted a negative influence on other factors in the model. 
+
+Yet another finding associated with remediation was the effect that self-perceptions of 
+under-preparedness prior to enrolling in college had on developmental students. decisions to 
+drop out. The more students perceived that they were unprepared, the less likely they were to 
+decide to re-enroll in the second year with graduation as their goal. The fourth finding linked to 
+developmental education was the student.s sense of fairness in the assessment and placement in 
+remedial courses. Students that realized their academic ability had been accurately measured, 
+that placement tests represented fair assessments, and believed that they belonged in 
+developmental classes entered their remediation with positive attitudes that they were fairly 
+placed; these attitudes were instrumental in affecting persistence attitudes. A fifth, and 
+overlapping result, was the conviction that acquiring literacy skills through remediation was 
+necessary to perform well in college. Students that valued the acquisition of those skills were 
+affected by these positive academic attitudes in that they were more likely to return to campus 
+
+
+the following year. The findings from non-experimental studies such as this one can provide 
+some direction as to what is happening in developmental education that is associated with 
+student outcomes, ultimately informing institutional policy and practices. 
+
+.Emerging Theoretical Basis for Effective Developmental 
+Education. 
+
+ As recent as this current year, Henry and Calcagno (2008) noted that: “Remediation is the 
+most common approach to preparing students academically and socially during their early stages 
+of college. However, despite its profound importance and its significant costs, there is very little 
+rigorous research analyzing its effectiveness.” Their goal was to offer a conceptual framework 
+that can be used for research on and evaluation of developmental education. While there are 
+several studies that have examined differences between those participating and those not 
+participating in developmental education, only a handful can be found that have relied on a 
+sound theoretical framework to guide their studies. Nora (in press), Castallenos and Gloria 
+(2007), and Hurtado (2008) have all stated that even among those that have used different 
+theoretical perspectives, they have fixated on one or two models to the exclusion of other more 
+holistic perspectives. The following section introduces Tinto.s (1997) Student Integration Model 
+as well as other theoretical frameworks and perspectives that have formed the basis for effective 
+developmental education. 
+
+Student Integration/Engagement Models. Several national initiatives such as Achieving 
+the Dream and The Learning Communities Demonstration have based their programmatic efforts 
+on well-established persistence models in the field of higher education (i.e. Tinto, 1993; Nora, 
+2003, 2004; Braxton, 2000; Pascarella & Terenzini, 1991) and pedagogical and structural 
+transformative perspectives (Rendon, 1994, 2004; Tinto, Goodsell, & Russo, 1993). One 
+approach to remediation that has received much attention is the concept of the learning 
+community, a concept grounded in Tinto.s (1993) model of student integration. Tinto.s original 
+model has undergone many revisions based on both his and others. modifications (for a more 
+detailed exposition on Tinto.s model and modifications, see Nora, 2003; Braxton, 2000; 
+Pascarella & Terenzini, 2005). Relying on the empirical work guided by his model, Tinto (1997) 
+introduced the notion of learning communities, focusing on the social integration of the student, 
+his or her academic integration through collaborative learning, and the need for curricular 
+
+
+coherence. Overall, the theoretical model exerts that persistence and success in higher education 
+depend on the effectiveness of the classroom instruction as well as the successful integration of 
+students into the academic and social life of the institution. Basically, groups of courses are 
+assigned to a cohort of students with the intent of establishing student communities around 
+learning. 
+Guided by the underlying theoretical perspectives that have been tested and substantiated 
+in the literature, programs and initiatives such as the Bridge Program and the Learning 
+Communities Demonstration have incorporated core dimensions based on those perspectives. 
+Learning Communities (2008) identifies as its core dimensions of learning communities to 
+include integration, active-learning pedagogy, faculty engagement, student engagement, 
+supplemental student support services, and institutional/structural transformation, key factors 
+found to impact the adjustment, engagement, academic achievement and persistence of all 
+students (e.g. Tinto, 1993; Nora, 2003; Cabrera, Nora, & Castaneda, 1993; Nora, Cabrera, 
+Hagedorn, & Pascarella, 1996; Braxton, 2000; Nora & Crisp, 2008). 
+Based on an evaluation of such a framework and using an experimental design (Brock & 
+LeBlanc, 2005) and a separate study using a quasi-experimental design (Wilcox et al., 1997), the 
+findings revealed some positive outcomes related to learning communities. Most often, these 
+learning centers work in conjunction with learning assistance centers, quite diverse in the kind of 
+services provided. However, these student support services are accessible to all students, 
+developmental and non-developmental even though they pay particular attention to the needs of 
+remedial students (Perin, 2004). The author notes, “…because they are designed to meet the 
+needs of all students who desire some extra assistance, the impact of such support services on 
+remedial students is unclear.” 
+Relying on Tinto.s (1993) model, several other studies examined the effectiveness of 
+remediation on a variety of outcomes (Grimes & David, 1999; Crews & Aragon, 2004; Moss & 
+Young, 1995; Kreysa, 2007). Those studies were examined in the preceding section that focused 
+on the impact of developmental education on participation, academic performance, credit hours 
+completed, course completion, persistence and graduation. 
+
+Human Capital. Melguizo, Hagedorn, and Cypers (2008) examined the cost-
+effectiveness and equity of community college attendance on transfer. Their study was grounded 
+in human capital theory (Becker, 1967) and used an equity framework for public education 
+
+
+(Levin, 1987, 2002). The authors relied on a unique dataset of community college transfer 
+students from the nine colleges of the LACCD. The analysis not only provided empirical 
+evidence of the true costs of attending a community college in California but also examined the 
+cost-effectiveness for those students initially enrolled in remedial education. While the study did 
+not concentrate on the effectiveness of remediation as their primary goal, a financial 
+consideration associated with taking developmental courses was explored as well. Their findings 
+concluded that the added financial burden imposed by having to take remedial courses had a 
+negative impact on the transfer of developmental students. The cost associated with courses that 
+were not transferrable and the added extended length of time it took to earn transfer-level courses 
+was perceived as insurmountable to remedial students. 
+Transformation of Curriculum. Though not a specific model per se, several authors 
+(Commander & Smith, 1995; Wilcox, del Mas, Stewart, Johnson, & Ghere, 1997) of 
+developmental education advance the perspective that basic skills be taught in union with content 
+course materials. The thinking is that students may gain experience in transferring those skills to 
+tasks that are professed to be "real" because skills taught in isolation are less likely to be applied 
+productively to further coursework. While many applications to academic and vocational courses 
+have been offered (e.g. adjunct courses, tandem classes, paired courses, packaged courses, linked 
+courses), no theoretically-based investigations have been found based on this perspective. 
+
+Learning Communities (2008) proposes that such communities are founded on a “theory 
+of change…[that] builds on the well-documented finding that the relationships that students form 
+with faculty and other students enable and encourage students to persist and succeed in their 
+educational pursuits” and that “collaborative learning and other experiences offered by learning 
+communities enhance a sense of belonging, which, in turn, leads to an increase in student effort; 
+it is this effort and engagement in learning processes that drives student knowledge acquisition 
+and the development of academically relevant skills” (p. 8). A significant part of their core 
+dimensions is “Curricular Integration” that includes “aligned syllabi, joint homework 
+assignments, and project-based and other learning experiences that encourage drawing on 
+materials in all the linked courses” (p. 9). This change perspective is included under curricular 
+transformation because variables such as student engagement, sense of belonging, and student 
+interactions with faculty are derived from previous persistence and engagement models and 
+focuses more on the transformation of classroom structures and materials. While six learning 
+
+
+communities are currently operational and the random assignment of students to program and 
+control groups has been conducted, MDRC notes that “the earliest findings on impacts are not 
+expected for at least three years” (p. 3). 
+
+.A Final Thought. 
+
+The discourse and programmatic development on remediation has focused on three key 
+contentions. The first tightly held belief is that remediation has an implied positive benefit, that 
+remediation is necessary for the academic success in non-developmental courses and the 
+attainment of educational goals for those that enter higher education unprepared or 
+underprepared. A second conviction centers on the notion that there also is a perceived 
+limitation, that remedial efforts may only prepare students for other remedial courses, and not for 
+non-remedial ones. The last possibility is that developmental education and its remediation of 
+students has not yet been fully examined, that the potential influence of remedial-related 
+perceptions, attitudes and values of students in developmental courses have not been included or 
+tested in remedial studies. These three presuppositions are based on the collective findings in the 
+body of literature on remediation. 
+The first two beliefs are predicated on studies with mixed findings regarding the impact 
+of remediation on student academic outcomes or educational goals. The last belief is based on 
+the view that developmental students. attitudes and perceptions – as learners, on developmental 
+programs, regarding faculty-student and peer-student relationships and interactions, on academic 
+progress in developmental courses and persistence to graduation – must be considered in the 
+programmatic development of strategies, practices, and policies. Data-driven interventions as 
+those associated with Achieving the Dream may show promise in guiding remediation efforts. 
+Collecting data on students that includes performance indicators as well as measures of the 
+underlying behavioral and attitudinal processes that underlie the academic and social experiences 
+of developmental students (e.g. the Survey of Entering Student Engagement [SENSE] and 
+Community College Survey of Student Engagement [CCSSE]) is necessary for the successful 
+remediation of underprepared students entering college. The use of these data points are central 
+to monitoring student progress, designing early warning systems, advising, and mentoring 
+developmental students. 
+
+
+Recent practices by such programs as Achieving the Dream, Learning Communities, and 
+the First Year Experience have begun to focus on the identification of a specific problem, the 
+examination of student outcomes, the collection of quantitative and qualitative data, the use of 
+that data for strategic planning and programmatic design, the execution of intervention practices 
+and activities, and the evaluation of remedial programs. This approach has integrated data 
+collection, program design and evaluation, an approach that is considered as pioneering in the 
+use of data. 
+Finally, on a design and methodological note, the use of experimental and non-
+experimental research designs and qualitative studies is crucial in researching different aspects of 
+developmental education. Experimental designs and analyses are necessary to establish the 
+causal relationship between participation in remedial programs and specific student outcomes. 
+However, non-experimental designs and the use of sophisticated statistical techniques such as 
+causal modeling, hierarchical regression analysis and regression discontinuity analysis are 
+necessary to uncover the nature and magnitude of the relationships underlying important factors 
+that are taking place in those remedial programs. And, finally, qualitative, in-depth studies are 
+needed to uncover the nature of those relationships from the phenomenological perspective of 
+the students involved in those programs. Put together, the findings from such integrated 
+investigations can provide educators, practitioners and policymakers the information that can 
+truly make a difference in this very important initiative, the preparation of our students to 
+successfully compete and succeed in higher education. 
+
+
+
+REFERENCES 
+Adelman, C. (1996). The truth about remedial work: It.s more complex than windy 
+rhetoric and simple solutions suggest. The Chronicle of Higher Education, p. A56. 
+Adelman, C. (1999). Answers in the tool box: Academic intensity, attendance patterns, 
+and bachelor’s degree attainment. (Monograph). Washington, DC: Office of Education Research 
+and improvement, U.S. Department of Education. 
+Adelman, C. (2005). Moving into town-and moving on: The community college in the 
+lives of traditional-age students. Washington, DC: U.S. Department of Education. 
+Attewell, P.S., Lavin, D.E., Domina, R., & Levey, T. (2006). New evidence on college 
+remediation, The Journal of Higher Education, 77(5), 886-924. 
+Bahr, P.R. (2007). Double jeopardy: Testing the effects of multiple basic skill 
+deficiencies on successful remediation. Research in Higher Education, 48(6), 695-725. 
+Bahr, P. (2008). Does mathematics remediation work? A comparative analysis of 
+academic attainment among community college students. Research in Higher Education, 49(5), 
+420-450. 
+Bean, J.P., & Metzner, B.S. (1985). A conceptual model of nontraditional undergraduate 
+student attrition. Review of Educational Research, 55(4), 485-540. 
+Becker, G. (1967). Human capital and the personal distribution of income: An analytical 
+approach. Ann Arbor: University of Michigan Press. 
+Behrman, E.H. (2000). Developmental placement decisions: Content-specific reading 
+assessment. Journal of Developmental Education, 23(3), 12-16. 
+Bettinger, E., & Long, B.T. (2004). Shape up or ship out: The effect of remediation on 
+underprepared students at four-year colleges (NBER Working Paper Number 10369). 
+Washington, DC: National Bureau of Economic Research. 
+Bettinger, E., & Long, B.T. (2005). Remediation at the community college: Student 
+participation and outcomes. New Directions for Community Colleges (Vol. 129, pp. 17-26). San 
+Francisco: Jossey-Bass. 
+Bishop, J. (1998). Do curriculum-based external exit exam systems enhance student 
+achievement? CPRE Research Report, University of Pennsylvania. 
+Braxton, J.M. (2000). Reworking the student departure puzzle. Vanderbilt University 
+Press. 
+
+
+
+Cabrera, A.F., Nora, A., & Castaneda, M.B. (1993). College persistence: The testing of 
+an integrated model. Journal of Higher Education, 64(2), 123-139. 
+
+
+California State University. (2008). Accessed on 10/9/2008). The Early Assessment 
+Program: Helping High School Students Meet College Expectations in Mathematics and 
+English. http://www.calstate.edu/EAP/. 
+Castellanos, J., & Gloria, A.M. (2007). Personal communication as panel member at a 
+symposium sponsored by the Hispanic Association of Colleges and Universities and the Lumina 
+Foundation. Houston, TX. 
+Commander, N.E., & Smith, B.D. (1995). Developing adjunct reading and learning 
+courses that work. Journal of Reading, 38(5), 352-60. 
+Costrell, R. (1994). A simple model of educational standards. American Economic 
+Review, 84(4), 956-971. 
+Crews, D.M., & Aragon, S.R. (2004). Influence of a community college developmental 
+education writing course on academic performance, The Community College Review, 32(2), 1-
+18. 
+Crews, D.M., & Aragon, S.R. (2007). Developmental education writing: Persistence and 
+goal attainment among community college students. Community College Journal of Research 
+and Practice, 31(8), 637-652. 
+Deil-Amen, R., & Rosenbaum, J.E. (2002). The unintended consequences of stigma-free 
+remediation. Sociology of Education, 75, 249-268. 
+Engstrom, C.M., & Tinto, V. (2008). Learning better together: The impact of learning 
+communities on the persistence of low-income students. Opportunity Matters, 1, 1-21. 
+Frear, V., & Hirschbuhl, J.J. (1999). Does interactive multimedia promote achievement 
+and higher level thinking skills for today.s science students [Electronic version]. British Journal 
+of Technology, 30(4), 1-8. 
+Grimes, S.K., & David, K.C. (1999). Underprepared community college students: 
+Implications of attitudinal and experiential differences. The Community College Review, 27(2), 
+73-92. 
+Grubb, W.N. (2001). From black box to Pandora’s Box: Evaluating 
+remedial/developmental education (CRCC Brief No. 11). New York: Community College 
+Research Center, Teachers College, Columbia University. 
+Grabe, M., & Sigler, E. (2002). Studying online: Evaluation of an online study 
+environment [Electronic version]. Computers & Education, 38, 375-383. 
+
+
+
+Grunder, P.G., & Hellmich, D.M. (1996). Academic persistence and achievement of 
+remedial students in a community college.s success program. The Community College Review, 
+24(2), 21-33. 
+Hagedorn, L.S., Siadat, M.V., Fogel, S.F., Nora, A., & Pascarella, E.T. (1999). Success in 
+college mathematics: Comparisons between remedial and nonremedial first-year college 
+students. Research in Higher Education, 40(3), 261-284. 
+Hodges, D.Z. (1998). Evaluating placement and developmental studies programs at a 
+technical institute: Using ACT.s underprepared students in an urban community college. The 
+Community College Review, 26(2), 57-66. 
+Hodges, D.Z., & Kennedy, N.H. (2004). Post-testing in developmental education: A 
+success story. The Community College Review, 32(3), 35-42. 
+Hoyt, J.E. (1999). Remedial education and student attrition. The Community College 
+Review, 27(2), 51-72. 
+Hoyt, J.E., & Sorenson, C. (2001). High school preparation, placement testing, and 
+college remediation. Journal of Developmental Education, 25(2), 23. 
+Hurtado, S. (2008). Personal communication at a seminar sponsored by the Association 
+for the Study of Higher Education (ASHE) and the Ford Foundation. Santa Fe: New Mexico. 
+Ignash, J.M. (1997). Who should provide postsecondary remedial/developmental 
+education? New Directions for Community Colleges, 100, 5-20. 
+
+
+Institute for Higher Education Policy. (1998). College remediation: What it is, what it 
+costs, what’s at stake. Washington, DC. http://www.ihep.org/assets/files/publications/a-f/College 
+Remediation.pdf. 
+Jepsen, C. (2006, April). Basic skills in California’s community colleges: Evidence from 
+staff and self referrals. Paper presented at the American Educational Research Association 
+(AERA) meeting, San Francisco. 
+Kreysa, P.G. (2006-2007). The impact of remediation on persistence of under-prepared 
+college students. Journal of College Student Retention: Research, Theory and Practice, 8(2), 
+251-270. 
+Lesik, S.A. (2006). Applying the regression-discontinuity design to infer causality with 
+non-random assignment. The Review of Higher Education, 30(1), 1-19. 
+Lesik, S.A. (2007). Do developmental mathematics programs have a causal impact on 
+student retention? An application of discrete-time survival and regression-discontinuity analysis. 
+Research in Higher Education, 42(6), 709-723. 
+
+
+
+Lesik, S.A. (2008). Studying the effectiveness of programs and initiatives in higher 
+education using the regression-discontinuity design. In J.C. Smart (ed.), Higher Education: 
+Handbook of Theory and Research, pp. 277-297. 
+Leake, M., & Lesik, S. (2007). Do remedial English programs impact first-year success 
+in college? An illustration of the regression-discontinuity design. International Journal of 
+Research and Method in Education, 30(1), 89-99. 
+Levin, H.M. (2001). Globalizing the community college: Strategies for change in the 21st 
+centrury. New York: Palgrave. 
+Levin, H.M. (1987), Education as a public and private good. Journal of Policy Analysis 
+and Management, 6, 628-641. 
+Levin, H.M. (2002). A comprehensive framework for evaluating educational vouchers. 
+Educational Evaluation and Policy Analysis, 24(3), 159-174. 
+Levin, H.M., & Calcagno, J.C. (2008). Remediation in the community college: An 
+evaluator.s perspective, The Community College Review, 35(3), 181-207. 
+Mazzeo, C. (Fall 2002). Stakes for students: Agenda-setting and remedial education. 
+Review of Higher Education, 26(1), 19-39. 
+McCabe, R. (2000). No one to waste. Denver, CO: Community College Press. 
+McCusker, M. (1999). ERIC review: Effective elements of developmental reading and 
+writing programs. The Community College Review, 27(2), 93-105. 
+Merisotis, J.P., & Phipps, R.A. (2000). Remedial education in colleges and universities: 
+What.s really going on? Review of Higher Education, 24(1), 67-85. 
+Melguizo, T., Hagedorn, L.S., & Cypers, S. (2008). Remedial/developmental education 
+and the cost of community college transfer: A Los Angeles County sample. Review of Higher 
+Education, 31(4), 401-431. 
+Moss, R., & Young, R.B. (1995). Perceptions about the academic and social integration 
+of underprepared students in an urban community college. The Community College Review, 
+16(4), 47-61. 
+Newby, M., & Fisher, D. (1998, December). The association between computer 
+laboratory environment and student outcomes. Paper presented at the meeting of the Australian 
+Association for Research in Education, Adelaide, Australia. 
+Nora, A. (April 2003). Access to higher education for Hispanic students: Real or 
+illusory? In L. Jones and J. Castellanos. (Eds.), The majority in the minority: Retaining Latina/o 
+faculty, administrators and students. Sterling, Virginia: Stylus Publishing, LLC. 
+
+
+ Nora, A. (2001-2002). The depiction of significant others in Tinto.s “Rites of Passage:” 
+A reconceptualization of the influence of family and community in the persistence process. 
+Journal of College Student Retention: Research, Theory & Practice, 3(1), 41-56 
+Nora, A. (forthcoming, September 2008). Researching Hispanic Undergraduates: 
+Conceptual and Methodological Unease. In R. Winkle-Wanker, D. Ortloff and C. Hunter.s (Eds.) 
+Bridging the Gap between Theory and Practice in Educational Research: Methods at the 
+Margins. Palgrave MacMillan. 
+Nora, A., Cabrera, A.F., Hagedorn, L.S., & Pascarella, E.T. (1996). Differential impacts 
+of academic and social experiences on college-related behavioral outcomes across different 
+ethnic and gender groups at four-year institutions. Research in Higher Education, 37(4), 427-
+452. 
+Nora, A., & Crisp, G. (2008). Technology and higher education: The impact of e-learning 
+approaches on student academic achievement perceptions and persistence. Journal of College 
+Student Retention, 10(3), 3-19. 
+Nora, A., & Garcia, V. (2001). The role of perceptions of remediation on the persistence 
+of developmental students in higher education. Paper presented at the annual meeting of the 
+Association for the Study of Higher Education (November). 
+Pascarella, E.T., & Terenzini, P.T. (1991). How college affects students. San Francisco: 
+Jossey-Bass. 
+
+
+ Perin, D. (2006). Can community colleges protect both access and standards? The 
+problem of remediation. Teacher’s College Record, 
+http://www.tcrecord.org/Content.asp?Content.asp?ContentId=12328. 
+Perin, D. (2002). The location of developmental education in community colleges: A 
+discussion of the merits of mainstreaming vs. centralization. The Community College Review, 
+30(1), 27-44. 
+Rendon, L.I. (2004). Transforming the first year of college for students of color: Where 
+do we begin? In L.I. Rendon et al. (Eds.), Transforming the first year of college for students of 
+color. Columbia, SC: Center for the First-Year Experience and Students in Transition. 
+Rendon, L.I. (1994). Validating culturally diverse students: Toward a new model of 
+learning and student development. Innovative Higher Education, 19(1): 23-32. 
+Rendon, L., Novack, V., & Dowell, D. (2005). Testing race-neutral admissioins models: 
+Lessons from California State University-Long Beach. The Review of Higher Education, 28(2), 
+221-244. 
+
+
+
+ Roadrangka, v., Yeany, R.H., & Padilla, M.J. (1983, April). The construction and 
+validatin of Group Assessment of Logical Thinking (GALT). Paper presented at the annual 
+meeting of the National Association for Research in Science Teaching, Dallas, Texas. 
+Rouche, J., & Rouche, S. (1999). High stakes, high performance: Making remedial 
+education work. Washington, DC: Community College Press. 
+Shadish, W., Cook, T., & Campbell, D. (2002). Experimental and quasi-experimental 
+designs for generalized causal inference. Boston, MA: Houghton Mifflin. 
+Southard, A.H., & Clay, J.K. (Step. 2004). Measuring the effectiveness of developmental 
+writing courses. The Community College Review, 32(2), 39-50. 
+Strong American Schools. (2008). Diploma to nowhere. Report to the Rockefeller 
+Philanthropy Advisors, Washington, DC. 
+Thistlethwaite, D., & Campbell, D. (1960). Regressioin-discontinuity analysis: An 
+alternative to the ex post facto experiment. Journal of Educational Psychology, 51, 309-317. 
+Tinto, V. (1993). Leaving college: Rethinking the causes and cues of student attrition. 
+(2nd ed.). Chicago: University of Chicago Press. 
+Tinto, V., Goodsell, A., & Russo, P. (1993). Building learning communities for new 
+college students. Final report of the learning communities project for the National Center on 
+Postsecondary Teaching, Learning, and Assessment, Syracuse University. 
+Trochim, W. (1984). Research design for program evaluation: The regression-
+discontinuity approach. Newbury park, CA: Sage. 
+USDOE. U.S. Department of Education, National Center for Education Statistics. (2003). 
+Remedial education at degree-granting postsecondary institutions in the fall 2000. (NCES 2004-
+010) Washington, DC: U.S. Government Printing Office. 
+USDOE. U.S. Department of Education, National Center for Education Statistics. (2004). 
+The condition of education. Washington, DC: U.S. Government Printing Office. 
+Waks, S., & Sabag, N. (2004). Technology project learning versus lab experimentation 
+[Electronic version]. Journal of Science Education and Technology, 13(3), 333-342. 
+Wilcox, K.J., del Mas, R. C., Stewart, B., Johnson, A. B., & Ghere, D. (1997). The 
+"package course" experience and developmental education. Journal of Developmental Education, 
+20(3), 18-20, 22, 24, 26. 
+Woodham, R. (1998). Report says remedial classes are cost effective. Chronicle of 
+Higher Education, A54. 
+
+
+

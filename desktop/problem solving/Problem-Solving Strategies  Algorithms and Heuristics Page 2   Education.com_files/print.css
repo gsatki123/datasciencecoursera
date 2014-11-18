@@ -1,0 +1,54 @@
+body {font: normal 11pt/1.4 Arial, Times, serif;}
+h1, h2, h3, h4, h5, h6 {font-family: Helvetica, Arial, Verdana, sans-serif;}
+h3, .wide-right h2.reg-header {font-size: 16pt;}
+h4, .gallery-print h3 {font-size: 14pt;}
+h5 {font-size: 12pt;}
+h6 {font-size: 11pt;}
+
+#content a:link, a:visited {color: #364409; font-weight: bold; text-decoration: none;}
+#content a:after {content: " (" attr(href) ") "; font-size: 9pt;}
+#content a[href^="/"]:after {content: " (http://www.education.com" attr(href) ") ";}
+
+a img {border: none;}
+
+img.articleImage {float: right; margin: 10px 0 10px 10px;}
+img.floatright {float: right; margin: 10px 0 10px 10px;}
+img.floatleft {float: left; margin: 10px 10px 10px 0;}
+
+#header h1 {border-top: 2pt solid #364409; margin: 0; color: #364409; font-size: 12pt;}
+#header h1 a {text-decoration: none; color: #364409;}
+
+.content-text h3, .wide-right h2.reg-header, .gallery-print h2, .event-detail h2 {border-bottom: 5pt solid #829b4e; margin: 1em 0; color: #829b4e;}
+p#footer-copyright {border-top: 3pt solid #829b4e; padding: 4pt 0 0 0; font-size: 9pt;}
+
+/* Printing Galleries */
+div.gallery-print h2.print-hidden {page-break-before: always;}
+div.gallery-print h3 {margin-bottom: 2pt; padding: 0;}
+div.gallery-print p {margin: 0 0 6pt 0; padding: 0;}
+
+/* Printing Events and Venues */
+.event-detail h2 {float: left; width: 100%;}
+.event-detail .event-image {float: right; position: relative; border: 3px solid #829b4e; margin-bottom: -130pt;}
+.ev-content-text, .event-details {clear: both; margin-right: 180px;}
+.event-details dt {font-weight: bold;}
+
+/* Removing unnecessary content */
+#sidebar, #featured, #ad-main, div.ad, #user-tools, #header-top .box, #nav, h2.reg-header, #breadcrumbs, .add-info, .rating,  #comments, #addcomment, #nav-footer, #footer p, #lpp-articles, .wide-right .whiteBoxSmall, h3.lpp, #sitewide-date, .hidden, a.anchor {display: none;}
+p#footer-copyright, .wide-right h2.reg-header {display: block;}
+
+/* Removing sIFR and restoring regular text headlines */
+.sIFR-flash, .sIFR-flash object, .sIFR-flash embed {display: none !important; height: 0; width: 0; position: absolute; overflow: hidden;}
+span.sIFR-alternate {visibility: visible !important; display: block !important; position: static !important; left: auto !important; top: auto !important;}
+embed, object {display: none;}
+
+.copyright {
+	padding-top:20px;
+	text-align:center;
+}
+.printurl {
+	padding-top:10px;
+	text-align:center;
+}
+.printactions {
+	display:none;
+}

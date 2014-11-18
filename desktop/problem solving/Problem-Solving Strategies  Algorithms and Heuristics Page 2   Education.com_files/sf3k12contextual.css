@@ -1,0 +1,56 @@
+/* SF3 K12 contextual ad module styles */
+
+.contextual-k12ad .contextual-k12box
+{
+	border-radius: 8px;
+	border: 1px solid #dddddd;
+	background: transparent url(../i/schoolfinder/sf-contextual-k12-box.jpg?ver=30638x) no-repeat 0 0;
+	height: 180px;
+}
+
+.contextual-k12ad .box-contents 
+{
+	margin-left: 0;
+	padding: 5px 100px 80px 10px;
+	position: relative;
+}
+
+.contextual-k12ad h4 
+{
+	line-height: 21px;
+	margin: 2px 0 5px;
+	font-size: 16px;
+}
+.contextual-k12ad .contextual-k12box-wide
+{
+	border-radius: 12px;
+	border: 1px solid #ccc;
+	padding: 2px;
+}
+.contextual-k12box-wide .content-wrap {
+	margin: 15px;
+	width: 330px;
+}
+.contextual-k12box-wide .learn-more-wrap {
+	padding:35px 15px;
+}
+.blue-title {
+	color: #2D8CCB;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Arial;
+}
+.contextual-k12ad .contextual-k12box-small
+{
+	border-radius: 12px;
+	border: 1px solid #ccc;
+	background: transparent url(/files/static/internal-ads/k12-drivers/310x170-img.png?ver=30638x) no-repeat 100% 0;
+	height: 177px;
+}
+.contextual-k12box-small .content-wrap{
+	margin-right: 150px;
+	padding: 10px;
+}
+.contextual-k12box-small .learn-more-wrap {
+	margin:10px 0;
+}
